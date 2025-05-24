@@ -290,7 +290,7 @@ class TaskPage extends HTMLElement {
       ? completed.map(t => this.taskItemHTML(t, true)).join("")
       : `<li class="empty">No hay tareas completadas</li>`;
 
-    // attach listeners
+    
     this.shadowRoot!.querySelectorAll(".btn-complete").forEach(btn => {
       btn.addEventListener("click", e => {
         const id = (e.currentTarget as HTMLElement).dataset.id!;
