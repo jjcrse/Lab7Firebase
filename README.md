@@ -1,6 +1,1 @@
-# Intro
-Presenting the readme
-# Body
-Readme
-# Footer
-That was the readme
+Hola teacher la verdad esto de firebase mme tiene muy confundido y no se que hacer sincerammente  porque estoy perdidisimo con esto
